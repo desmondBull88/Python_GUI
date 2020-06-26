@@ -1,1 +1,1 @@
-# test
+# A sample GUI file opener
